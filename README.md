@@ -1,4 +1,4 @@
-**Richard Mulholland**
+# I am ***Richard Mulholland***
 
 Hello, my name is Richard Mulholland, and I am currently a student at Utah State University. I am currently pursuing a Bachelor's in Computer Science, and a minor in Mathematics.
 
@@ -10,3 +10,5 @@ Some of my skills are:
 * Object Oriented Programming
 * Git
 * Some Bash Knowledge
+
+I am currently working on moving some coursework over to my personal GitHub profile.
