@@ -1,6 +1,6 @@
 # I am ***Richard Mulholland***
 
-Hello, my name is Richard Mulholland, and I am currently a student at Utah State University. I am currently pursuing a Bachelor's in Computer Science, and a minor in Mathematics.
+Hello, my name is Richard Mulholland, and I am currently a student at Utah State University. I am currently pursuing a Bachelor's in Computer Science. If you can't tell, Android Application Development is my jam.
 
 I am currently a Sophomore in College, and will graduate May of 2024.
 
