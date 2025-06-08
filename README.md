@@ -3,7 +3,7 @@
 
 ### 🧑 Who am I?
 
-I am about to graduate college in May of 2024 with a Bachelor's Degree in Computer Science! I have learned a lot throughout earning this degree, and working the entire time. I have also participated in Speech and Debate at Utah State University, winning many awards. All of these have given me skills in Critical Thinking, Problem Solving, Quick and Solid Resolutions, Eloquent Writing, and many more.
+I graduated college in May of 2024 with a Bachelor's Degree in Computer Science! I learned a lot throughout earning this degree, and working the entire time. I have also participated in Speech and Debate at Utah State University, winning many awards. After graduating, I started a job as a Junior Software Developer working for a contractor for the Federal Government. All of these have given me skills in Critical Thinking, Problem Solving, Quick and Solid Resolutions, Eloquent Writing, and many more.
 
 On top of this, I have gained many software specific skills including:
 <hr>
@@ -14,7 +14,7 @@ On top of this, I have gained many software specific skills including:
 * Software Architecture:
   * Object Oriented Programming, MVVM, MVC, and Uni-Directional Data Flow 
 * Web Development (Frontend and Backend):
-  * React, Express, Django, Vue, Node, Yarn, REST, and TypeScript
+  * React, Express, Django, Vue, Node, Yarn, REST, Spring, Angular, Jenkins, and TypeScript
 * Artificial Intelligence:
   * Symbolic AI, Artificial Neural Networks, Keras, PyTorch, SciKit Learn, and Ensembles
 * Algorithms:
